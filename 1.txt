@@ -1,0 +1,13 @@
+Operators are used to assign values, compare values, perform arithmetic operations, and more.
+
+There are different types of JavaScript operators:
+
+Arithmetic Operators
+Assignment Operators
+Comparison Operators
+Logical Operators
+Conditional Operators
+Type Operators
+
+
+Operators are essential for performing computations, making decisions, and manipulating data in programming. They enable us to perform mathematical calculations, concatenate strings, compare values, control program flow, and handle complex operations.
